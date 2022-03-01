@@ -1,0 +1,30 @@
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\bin\Debug\net6.0\Skill Matrix Projekt.exe
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\bin\Debug\net6.0\Skill Matrix Projekt.deps.json
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\bin\Debug\net6.0\Skill Matrix Projekt.runtimeconfig.json
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\bin\Debug\net6.0\Skill Matrix Projekt.dll
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\bin\Debug\net6.0\ref\Skill Matrix Projekt.dll
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\bin\Debug\net6.0\Skill Matrix Projekt.pdb
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.csproj.AssemblyReference.cache
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.AssemblyInfoInputs.cache
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.AssemblyInfo.cs
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.csproj.CoreCompileInputs.cache
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.dll
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\ref\Skill Matrix Projekt.dll
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.pdb
+C:\Users\sascha.rittig\OneDrive - SoftwareONE\Documents\Skill Matrix Projekt\obj\Debug\net6.0\Skill Matrix Projekt.genruntimeconfig.cache
+C:\git\SkillMatrix\Skill Matrix Project\bin\Debug\net6.0\Skill Matrix Projekt.exe
+C:\git\SkillMatrix\Skill Matrix Project\bin\Debug\net6.0\Skill Matrix Projekt.deps.json
+C:\git\SkillMatrix\Skill Matrix Project\bin\Debug\net6.0\Skill Matrix Projekt.runtimeconfig.json
+C:\git\SkillMatrix\Skill Matrix Project\bin\Debug\net6.0\Skill Matrix Projekt.dll
+C:\git\SkillMatrix\Skill Matrix Project\bin\Debug\net6.0\ref\Skill Matrix Projekt.dll
+C:\git\SkillMatrix\Skill Matrix Project\bin\Debug\net6.0\Skill Matrix Projekt.pdb
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.csproj.AssemblyReference.cache
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.AssemblyInfoInputs.cache
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.AssemblyInfo.cs
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.csproj.CoreCompileInputs.cache
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.dll
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\ref\Skill Matrix Projekt.dll
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.pdb
+C:\git\SkillMatrix\Skill Matrix Project\obj\Debug\net6.0\Skill Matrix Projekt.genruntimeconfig.cache
